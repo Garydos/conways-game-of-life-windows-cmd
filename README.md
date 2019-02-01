@@ -1,5 +1,6 @@
 # conways-game-of-life-windows-cmd
 A command line implementation of conway's game of life for windows
+
 Originally started in 2015
 
 ## Usage
