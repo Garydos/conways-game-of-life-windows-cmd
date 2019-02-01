@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1437679819 source:c:\users\antonio\c++ projects\conways_game_of_life\point.cpp
+	"Point.h"
+
+1437541536 c:\users\antonio\c++ projects\conways_game_of_life\\point.h
+	<iostream>
+	<string>
+
+1449469102 source:c:\users\antonio\c++ projects\conways_game_of_life\main.cpp
+	"Point.h"
+	"Tile.h"
+	"Grid.h"
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<thread>
+
+1437541523 c:\users\antonio\c++ projects\conways_game_of_life\\tile.h
+	<Point.h>
+	<State.h>
+	<iostream>
+
+1437539393 c:\users\antonio\c++ projects\conways_game_of_life\\state.h
+
+1437594958 source:c:\users\antonio\c++ projects\conways_game_of_life\tile.cpp
+	"Tile.h"
+
+1449469236 source:c:\users\antonio\c++ projects\conways_game_of_life\grid.cpp
+	"Grid.h"
+	"Point.h"
+	<vector>
+	<map>
+	<iostream>
+
+1437694629 c:\users\antonio\c++ projects\conways_game_of_life\grid.h
+	"Tile.h"
+	<map>
+	<vector>
+	<iostream>
+
+1437594867 c:\users\antonio\c++ projects\conways_game_of_life\tile.h
+	"Point.h"
+	"State.h"
+	<iostream>
+
+1437625196 c:\users\antonio\c++ projects\conways_game_of_life\point.h
+	<iostream>
+	<string>
+
+1437535793 c:\users\antonio\c++ projects\conways_game_of_life\state.h
+
